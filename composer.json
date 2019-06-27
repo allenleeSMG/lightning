@@ -94,10 +94,6 @@
                 "2877383 - Add action support to Media module":
                 "https://www.drupal.org/files/issues/2877383-23.patch"
             },
-            "drupal/entity_embed": {
-                "2832504 - Send the CKEditor instance ID to the embed.preview route":
-                "https://www.drupal.org/files/issues/2832504-2.patch"
-            },
             "drupal/entity_block": {
                 "2844068 - Create derivatives for any viewable entity.":
                 "https://www.drupal.org/files/issues/entity_block-view-builder-class.patch",
